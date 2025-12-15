@@ -1,10 +1,10 @@
-const App = () =>{
-    return (
-        <div>
+import Todo from "./components/Todo.jsx";
 
-        </div>
-    )
 
+const App = () => {
+  return (
+    <Todo />
+  )
 }
 
 export default App
