@@ -1,5 +1,4 @@
 import {useCallback, useEffect, useMemo, useRef, useState} from "react";
-import js from "@eslint/js";
 import tasksAPI from "../api/tasksAPI.js";
 
 const useTasks = () => {
