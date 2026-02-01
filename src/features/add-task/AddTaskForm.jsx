@@ -20,7 +20,9 @@ const AddTaskForm = (props) => {
 
     const onSubmit = (event) => {
        event.preventDefault()
-       if(!isNewTaskTitleEmpty) addTask(clearNewTaskTitle)
+       if(!isNewTaskTitleEmpty) {
+           addTask(clearNewTaskTitle, () => setNewTaskTitle(''))
+       }
     }
 
     const onInput = (event) => {
