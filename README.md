@@ -77,15 +77,16 @@ yarn install
 npm run dev
 # или
 yarn dev
+```
 
-### Главная страница со списком задач
-<div align="center">
-  <img width="964" height="523" alt="image" src="https://github.com/user-attachments/assets/8d8d0695-9380-4997-9474-19ea25a2a18a" />
+### Скриншоты
+<div align="center"> 
+  <img width="950" height="574" alt="image" src="https://github.com/user-attachments/assets/bc7a3714-4b63-4f1f-aa73-6d0467cb1a6e" />
   <p><em>(Основной экран приложения)</em></p>
 </div>
-### Страница детального просмотра задачи приложения
+
 <div align="center">
-  <img width="950" height="574" alt="image" src="https://github.com/user-attachments/assets/bc7a3714-4b63-4f1f-aa73-6d0467cb1a6e" />
+  <img width="964" height="523" alt="image" src="https://github.com/user-attachments/assets/8d8d0695-9380-4997-9474-19ea25a2a18a" />
   <p><em>(Страница детального просмотра задачи приложения)</em></p>
 </div>
 
